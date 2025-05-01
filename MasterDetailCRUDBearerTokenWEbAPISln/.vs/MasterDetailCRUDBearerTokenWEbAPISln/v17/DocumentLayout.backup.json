@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\provider\\appauthorizationserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\provider\\appauthorizationserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\migrations\\202501290433226_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\migrations\\202501290433226_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|e:\\github\\exam-7\\mid-7\\1285124\\masterdetailcrudbearertokenwebapisln\\masterdetailcrudbearertokenwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\dtos\\multipartformdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\dtos\\multipartformdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\dtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\dtos\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\masterdetailcrudbearertokenwebapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B9A2CB36-CDE6-42DA-9CC2-11B99525F5CD}|MasterDetailCRUDBearerTokenWEbAPI\\MasterDetailCRUDBearerTokenWEbAPI.csproj|solutionrelative:masterdetailcrudbearertokenwebapi\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppAuthorizationServerProvider.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Provider\\AppAuthorizationServerProvider.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Provider\\AppAuthorizationServerProvider.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Provider\\AppAuthorizationServerProvider.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Provider\\AppAuthorizationServerProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:26:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Models\\User.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Models\\User.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:24:07.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Models\\Order.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Models\\Order.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:24:31.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:25:02.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultipartFormDataFormatter.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\MultipartFormDataFormatter.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\MultipartFormDataFormatter.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\MultipartFormDataFormatter.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\MultipartFormDataFormatter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:27:50.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:29:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\OrderRequest.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\OrderRequest.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\DTOs\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:27:18.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Repository\\UserRepo.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:25:40.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:29:01.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Startup.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Startup.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:28:26.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202501290433226_init.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\202501290433226_init.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\202501290433226_init.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\202501290433226_init.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\202501290433226_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:33:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Web.config",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Web.config",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Web.config",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Web.config",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-29T04:30:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T04:32:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\packages.config",
+              "RelativeDocumentMoniker": "MasterDetailCRUDBearerTokenWEbAPI\\packages.config",
+              "ToolTip": "E:\\GitHub\\Exam-7\\Mid-7\\1285124\\MasterDetailCRUDBearerTokenWEbAPISln\\MasterDetailCRUDBearerTokenWEbAPI\\packages.config",
+              "RelativeToolTip": "MasterDetailCRUDBearerTokenWEbAPI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-29T04:22:30.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
